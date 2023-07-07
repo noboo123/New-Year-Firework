@@ -1,2 +1,2 @@
 # fireworks-new-year
-This is fireworks animation made with html, javascript
+This is a simple firework animation created using HTML and Javascript.
